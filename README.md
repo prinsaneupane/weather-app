@@ -1,5 +1,5 @@
 # Weather App
-A responsive weather app built with TypeScript, Tailwind CSS and OPenWeather API
+A responsive weather app built with TypeScript, Tailwind CSS and OpenWeather API
 
 ## Features
 
