@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(
+    160deg,
+    rgb(191, 219, 254) 0%,
+    rgb(224, 242, 254) 40%,
+    rgb(240, 249, 255) 100%
+  );
+  margin: auto;
+}
+.search-section {
+  display: flex;
+  padding: 1em;
+}
+.input {
+  border-radius: 8px;
+  padding: 0.5em 1em;
+  width: 100%;
+}
+#searchBtn {
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.weather-content {
+  margin-top: 1em;
+}
+.weather-card {
+  color: white;
+  border-radius: 8px;
+  padding: 1em;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.details-card {
+  background-color: white;
+  padding: 1em;
+}
+.footer {
+  margin-top: 1em;
+}
